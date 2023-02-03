@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = $_ENV['BOT_TOKEN'];
+$config['botToken'] = $_ENV['5931370930:AAHDu7cNN-SKi8Xo-dOF866i4fBGgK1kx-0'];
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = $_ENV['BOT_TOKEN'];
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = $_ENV['ADMIN_ID'];
+$config['adminID'] = $_ENV['1256293459'];
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = $_ENV['ADMIN_ID'];
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-//     $config['logsID'] =  $_ENV['LOGS_DUMP_ID'];
+$config['logsID'] =  $_ENV['1878962193'];
 
 /*
 |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ $config['adminID'] = $_ENV['ADMIN_ID'];
 | By Default it's in IST
 |
 */
-$config['timeZone'] =  $_ENV['TIMEZONE'];
+$config['timeZone'] =  $_ENV['Africa/Cairo'];
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  $_ENV['TIMEZONE'];
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  $_ENV['DB_HOST'];
-$config['db']['username'] =  $_ENV['DB_USERNAME'];
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
-$config['db']['database'] =  $_ENV['DB_NAME'];
+$config['db']['hostname'] =  $_ENV['sql12.freesqldatabase.com'];
+$config['db']['username'] =  $_ENV['sql12595301'];
+$config['db']['password'] =  $_ENV['SbBrrZU23E'];
+$config['db']['database'] =  $_ENV['sql12595301'];
 
 /*
 |--------------------------------------------------------------------------
@@ -66,7 +66,7 @@ $config['db']['database'] =  $_ENV['DB_NAME'];
 | Value is in Seconds. "20" = 20seconds
 |
 */
-$config['anti_spam_timer'] =  $_ENV['ANTISPAM_TIMER'];
+$config['anti_spam_timer'] =  $_ENV['15'];
 
 /*
 |--------------------------------------------------------------------------
